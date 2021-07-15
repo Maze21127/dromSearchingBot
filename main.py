@@ -5,7 +5,6 @@ import logging
 from telebot import TeleBot
 
 from dromSearch import DromSearch
-from send_errors import send_error_to_email
 from settings import *
 
 
@@ -37,5 +36,4 @@ while True:
         time.sleep(5)
     except Exception as ex:
         logger.exception(ex)
-        send_error_to_email(ex)
         time.sleep(10)
