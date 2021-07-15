@@ -1,0 +1,30 @@
+{
+  "basic": {
+    "brand": "mazda",
+    "model": "rx-8",
+    "generation": "",
+    "restyling": "",
+    "minprice": "",
+    "maxprice": "",
+    "transmission": "",
+    "minyear": "",
+    "maxyear": "",
+    "fueltype": "",
+    "mv" : "",
+    "xv": "",
+    "privod": "",
+    "unsold" : "1",
+    "ph": ""
+  },
+
+  "advanced": {
+    "body_type": "",
+    "pts": "",
+    "damaged": "",
+    "minpower": "",
+    "maxpower": "",
+    "minprobeg": "",
+    "maxprobeg": "",
+    "bez-probega": ""
+  }
+}
